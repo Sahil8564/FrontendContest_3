@@ -6,3 +6,5 @@ Complex UI Clone: Social Media Dashboard A responsive Social Media Dashboard clo
 > CSS
 
 ![Screenshot 2023-08-05 124102](https://github.com/Sahil8564/FrontendContest_3/assets/136605579/f07e50e5-25a2-457d-83a5-dc775540928e)
+
+![Screenshot 2023-08-05 124140](https://github.com/Sahil8564/FrontendContest_3/assets/136605579/58463ca6-61d4-4eec-a43b-ea1b7b1257eb)
